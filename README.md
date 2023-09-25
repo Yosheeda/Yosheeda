@@ -1,6 +1,6 @@
 ### 
 
-<h1>Howdy, my name is Abel, a <a href="https://linkedin.com/in/abel-chavez-jr-68bab4201">IT Professional</a>☺</h1>
+<h1>Howdy, my name is Abel, an <a href="https://linkedin.com/in/abel-chavez-jr-68bab4201">IT Professional</a>☺</h1>
 
 <h2>🖥️ Information Technology Projects:</h2>
 
