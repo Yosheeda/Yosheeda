@@ -19,5 +19,5 @@
 
 
 
-[linkedin]: https://linkedin.com/in/abel-chavez-jr-68bab4201<!--
+[linkedin]: https://www.linkedin.com/in/abel-chavez-68bab4201/<!--
 
